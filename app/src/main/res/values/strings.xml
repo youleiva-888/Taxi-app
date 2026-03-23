@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taxi Booking</string>
+    <string name="login_title">Sign in</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Log in</string>
+    <string name="validation_email_empty">Enter your email</string>
+    <string name="validation_password_empty">Enter your password</string>
+    <string name="main_title">Book a ride</string>
+    <string name="map_placeholder">Map area</string>
+    <string name="request_taxi">Request Taxi</string>
+    <string name="taxi_searching">Searching for driver...</string>
+    <string name="taxi_on_way">Taxi is on the way</string>
+    <string name="sign_out">Sign out</string>
+</resources>
