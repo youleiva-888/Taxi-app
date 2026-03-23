@@ -1,0 +1,4 @@
+echo ".gradle/" > ~/Taxi-app/.gitignore
+echo "local.properties" >> ~/Taxi-app/.gitignore
+echo "*.iml" >> ~/Taxi-app/.gitignore
+echo "build/" >> ~/Taxi-app/.gitignore
